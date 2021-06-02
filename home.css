@@ -1,0 +1,12 @@
+*{margin:0; padding:0;}
+.c_class{}
+.btn_class{height:22px%; width:14%; }
+.s_name{font-size:15px;padding:2px;}
+.my_class{height:; width:;}
+.class{height:14%;}
+
+/******************************************* this is header menu style **********************************************/
+.menu{height:50px;display:block; width:600px;margin:0 auto;}
+#style{margin:0auto;}.menu ul{list-style:none;}.menu ul li{float:left}.menu ul li a{padding:10px 15px;text-decoration:none;/* margin-top:20px; */font-weight:bold;font-family:arial;color:#F74800;transition:0.5s;}.menu ul li a:hover{/* border-left:1px solid blue; border-right:1px solid orange; */ color:white;background:#F74800;border-radius:5px;}
+.con_style{border-top:1px solid #cecece;border-bottom:1px solid #cecece; height:49px;}
+.con_class{height:50px;}
